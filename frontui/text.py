@@ -11,6 +11,8 @@ CURRENT LIMITATION:
    TIME_LIMIT, INITIAL_WAIT, WAIT).
         - Can be solved by sending timing data over serial.
 """
+
+
 import simpleaudio as sa
 from tkinter import *
 import serial
